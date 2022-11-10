@@ -1,0 +1,25 @@
+500.00
+5
+*
+Eyeballs 35.00
+Liver 89.00
+Heart 42.00
+Brain 34.00
+Lungs 67.00
+*
+Buy Heart
+Sell Eyeballs
+Sell Liver
+Liver up 15
+Eyeballs down 12
+Heart down 47
+Buy Eyeballs
+Buy Brain
+Sell Liver
+Buy Lungs 
+Lungs up 120
+Sell Lungs
+Sell Brain
+Brain up 50
+Buy Brain
+Sell Heart

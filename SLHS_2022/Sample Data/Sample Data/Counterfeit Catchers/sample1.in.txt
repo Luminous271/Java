@@ -1,0 +1,17 @@
+1
+3 5
+ccccc
+c   c
+c e c
+c   c
+ccccc
+ccccc
+c   c
+c e c
+c   c
+ccccc
+cccoc
+c   c
+c e c
+c   c
+ccccc
